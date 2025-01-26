@@ -1,0 +1,42 @@
+h1 {
+	color: purple;
+	margin-left: 700px;
+	font-size: 100pt;
+	font-family: 'JakesStencil';
+
+}
+
+p {
+	color: white;
+}
+
+h2 
+{
+color: darkred;
+  }
+
+ li
+ {
+ 	color: mediumpurple;
+ }
+
+ font-face {
+    font-family: 'MyFont';
+    src: url('jakes-stencil.woff2') format('woff2'),
+}
+
+body {
+    font-family: 'MyFont', sans-serif;
+}
+
+div
+{
+	color: white;
+	font-size: 15pt;
+	font-family: 'JakesStencil'
+}
+
+.my-form {
+    padding-right: 200px;
+}
+
